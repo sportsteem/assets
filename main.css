@@ -16,7 +16,7 @@ body {
   max-width: 480px;
 }
 
-#logo-wrapper {
+.centered {
   text-align: center;
 }
 
